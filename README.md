@@ -15,7 +15,4 @@
  ## New York
  This all-new, Apple-designed serif typeface is based on essential aspects of historical type styles and is designed to work on its own as well as alongside San Francisco.
  
- # How to use
- Get the you need to use system fonts.
- 
  
