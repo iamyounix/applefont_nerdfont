@@ -1,4 +1,11 @@
 # Apple Fonts
+
+![OS](https://img.shields.io/badge/OS1-Linux-white)
+![OS](https://img.shields.io/badge/OS2-Windows-blue)
+![OS](https://img.shields.io/badge/OS3-macOS-orange)
+![Check](https://img.shields.io/badge/Status-Pass-brightgreen)
+![Type](https://img.shields.io/badge/Type-Fonts-yellow)
+
 These typefaces offer the control and flexibility to optimally display text at a variety of sizes, in many different languages, across multiple interfaces.
  
 * **SF Pro**
