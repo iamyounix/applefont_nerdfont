@@ -1,4 +1,4 @@
-# Apple Fonts
+# My Fonts Collection
 
 ![Check](https://img.shields.io/badge/Status-Pass-brightgreen)
 ![Type](https://img.shields.io/badge/Type-Fonts-yellow)
