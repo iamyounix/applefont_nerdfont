@@ -27,4 +27,4 @@ These typefaces offer the control and flexibility to optimally display text at a
   
 ## Acknowledge
 
-[**Apple Inc.**](https://www.apple.com/) | [**NerdFonts**](https://www.nerdfonts.com/)
+[**Apple Inc.**](https://www.apple.com/) | [**Nerd Fonts**](https://www.nerdfonts.com/)
