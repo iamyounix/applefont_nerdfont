@@ -19,7 +19,7 @@ These typefaces offer the control and flexibility to optimally display text at a
 
 ## Additional
 
-* **FiraCode**
+* **FiraCode Nerd Font**
   * Mozilla typeface, dotted zero
 
 * **SF Mono Nerd Font**
