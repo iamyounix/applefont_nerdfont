@@ -17,7 +17,7 @@ These typefaces offer the control and flexibility to optimally display text at a
 * **New York**
   * This all-new, Apple-designed serif typeface is based on essential aspects of historical type styles and is designed to work on its own as well as alongside San Francisco.
 
-## Additional
+## Nerd Font
 
 * **FiraCode Nerd Font**
   * Mozilla typeface, dotted zero
